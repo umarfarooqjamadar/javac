@@ -1,0 +1,7 @@
+Started by user [8mha:////4C/lArJ109aLE8hGpi7X2cRfiqmz9bS3MY6Z9WVQFY6TAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgYB/dLi1CL90tzEorTEovz8QgDyB7wCxQAAAA==[0mumarfarooqhammad
+Running as SYSTEM
+Building in workspace /home/ec2-user/.jenkins/workspace/test3
+[test3] $ /bin/sh -xe /tmp/jenkins6851389240538806191.sh
++ pwd
+/home/ec2-user/.jenkins/workspace/test3
+Finished: SUCCESS
